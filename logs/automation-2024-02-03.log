@@ -1,0 +1,92 @@
+18:52:46.284 [main] INFO  testcases.TC_001_AccountRegistrationTest - clicked on MyAccount
+18:52:47.095 [main] INFO  testcases.TC_001_AccountRegistrationTest - clicked on register
+18:52:47.098 [main] INFO  testcases.TC_001_AccountRegistrationTest - entering user info....
+18:52:49.317 [main] INFO  testcases.TC_001_AccountRegistrationTest - clicked on continue button....
+18:52:49.400 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating expected message..
+18:52:49.400 [main] ERROR testcases.TC_001_AccountRegistrationTest - test failed...
+18:55:03.919 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\patel\eclipse-workspace\OpenCart\grouping.xml"
+18:55:04.374 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\patel\eclipse-workspace\OpenCart\grouping.xml
+
+18:55:09.905 [main] INFO  testcases.TC_001_AccountRegistrationTest - ****** TC_001_AccountRegistrationTest started ******
+18:55:10.144 [main] INFO  testcases.TC_001_AccountRegistrationTest - clicked on MyAccount
+18:55:10.933 [main] INFO  testcases.TC_001_AccountRegistrationTest - clicked on register
+18:55:10.937 [main] INFO  testcases.TC_001_AccountRegistrationTest - entering user info....
+18:55:13.024 [main] INFO  testcases.TC_001_AccountRegistrationTest - clicked on continue button....
+18:55:13.106 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating expected message..
+18:55:13.107 [main] ERROR testcases.TC_001_AccountRegistrationTest - test failed...
+18:55:17.838 [main] INFO  testcases.TC_002_LoginTest - ***** Starting TC_002_LoginTest ***** 
+18:55:17.839 [main] DEBUG testcases.TC_002_LoginTest - capturing application debug logs...
+18:55:17.999 [main] INFO  testcases.TC_002_LoginTest - clicked on MyAccount link on the home page..
+18:55:18.466 [main] INFO  testcases.TC_002_LoginTest - clicked on Login link under my account..
+18:55:18.471 [main] INFO  testcases.TC_002_LoginTest - Entering valid email and password
+18:55:19.513 [main] INFO  testcases.TC_002_LoginTest - clicked on login button
+18:55:19.605 [main] INFO  testcases.TC_002_LoginTest - Login test passed....
+18:55:19.605 [main] INFO  testcases.TC_002_LoginTest - ***** Finished TC_002_LoginTest *****
+18:58:26.838 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\patel\eclipse-workspace\OpenCart\grouping.xml"
+18:58:27.374 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\patel\eclipse-workspace\OpenCart\grouping.xml
+
+18:58:32.956 [main] INFO  testcases.TC_001_AccountRegistrationTest - ****** TC_001_AccountRegistrationTest started ******
+18:58:33.163 [main] INFO  testcases.TC_001_AccountRegistrationTest - clicked on MyAccount
+18:58:33.959 [main] INFO  testcases.TC_001_AccountRegistrationTest - clicked on register
+18:58:33.962 [main] INFO  testcases.TC_001_AccountRegistrationTest - entering user info....
+18:58:37.452 [main] INFO  testcases.TC_001_AccountRegistrationTest - clicked on continue button....
+18:58:37.513 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating expected message..
+18:58:37.514 [main] ERROR testcases.TC_001_AccountRegistrationTest - test failed...
+18:58:41.807 [main] INFO  testcases.TC_002_LoginTest - ***** Starting TC_002_LoginTest ***** 
+18:58:41.807 [main] DEBUG testcases.TC_002_LoginTest - capturing application debug logs...
+18:58:42.182 [main] INFO  testcases.TC_002_LoginTest - clicked on MyAccount link on the home page..
+18:58:42.684 [main] INFO  testcases.TC_002_LoginTest - clicked on Login link under my account..
+18:58:42.690 [main] INFO  testcases.TC_002_LoginTest - Entering valid email and password
+18:58:43.919 [main] INFO  testcases.TC_002_LoginTest - clicked on login button
+18:58:43.974 [main] INFO  testcases.TC_002_LoginTest - Login test passed....
+18:58:43.974 [main] INFO  testcases.TC_002_LoginTest - ***** Finished TC_002_LoginTest *****
+19:05:01.573 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\patel\eclipse-workspace\OpenCart\grouping.xml"
+19:05:02.210 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\patel\eclipse-workspace\OpenCart\grouping.xml
+
+19:05:07.772 [main] INFO  testcases.TC_001_AccountRegistrationTest - ****** TC_001_AccountRegistrationTest started ******
+19:05:08.053 [main] INFO  testcases.TC_001_AccountRegistrationTest - clicked on MyAccount
+19:05:08.864 [main] INFO  testcases.TC_001_AccountRegistrationTest - clicked on register
+19:05:08.870 [main] INFO  testcases.TC_001_AccountRegistrationTest - entering user info....
+19:05:12.121 [main] INFO  testcases.TC_001_AccountRegistrationTest - clicked on continue button....
+19:05:12.215 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating expected message..
+19:05:12.215 [main] ERROR testcases.TC_001_AccountRegistrationTest - test failed...
+19:05:16.751 [main] INFO  testcases.TC_002_LoginTest - ***** Starting TC_002_LoginTest ***** 
+19:05:16.751 [main] DEBUG testcases.TC_002_LoginTest - capturing application debug logs...
+19:05:16.905 [main] INFO  testcases.TC_002_LoginTest - clicked on MyAccount link on the home page..
+19:05:17.406 [main] INFO  testcases.TC_002_LoginTest - clicked on Login link under my account..
+19:05:17.413 [main] INFO  testcases.TC_002_LoginTest - Entering valid email and password
+19:05:18.559 [main] INFO  testcases.TC_002_LoginTest - clicked on login button
+19:05:18.647 [main] INFO  testcases.TC_002_LoginTest - Login test passed....
+19:05:18.648 [main] INFO  testcases.TC_002_LoginTest - ***** Finished TC_002_LoginTest *****
+19:12:15.096 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\patel\eclipse-workspace\OpenCart\test-output\testng-failed.xml"
+19:12:15.568 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\patel\eclipse-workspace\OpenCart\test-output\testng-failed.xml
+
+19:12:21.223 [main] INFO  testcases.TC_001_AccountRegistrationTest - ****** TC_001_AccountRegistrationTest started ******
+19:12:21.470 [main] INFO  testcases.TC_001_AccountRegistrationTest - clicked on MyAccount
+19:12:22.253 [main] INFO  testcases.TC_001_AccountRegistrationTest - clicked on register
+19:12:22.255 [main] INFO  testcases.TC_001_AccountRegistrationTest - entering user info....
+19:12:24.160 [main] INFO  testcases.TC_001_AccountRegistrationTest - clicked on continue button....
+19:12:24.260 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating expected message..
+19:12:24.260 [main] ERROR testcases.TC_001_AccountRegistrationTest - test failed...
+19:14:20.577 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\patel\eclipse-workspace\OpenCart\grouping.xml"
+19:14:21.095 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\patel\eclipse-workspace\OpenCart\grouping.xml
+
+19:14:26.615 [main] INFO  testcases.TC_001_AccountRegistrationTest - ****** TC_001_AccountRegistrationTest started ******
+19:14:26.770 [main] INFO  testcases.TC_001_AccountRegistrationTest - clicked on MyAccount
+19:14:27.544 [main] INFO  testcases.TC_001_AccountRegistrationTest - clicked on register
+19:14:27.546 [main] INFO  testcases.TC_001_AccountRegistrationTest - entering user info....
+19:14:29.574 [main] INFO  testcases.TC_001_AccountRegistrationTest - clicked on continue button....
+19:14:29.638 [main] INFO  testcases.TC_001_AccountRegistrationTest - Validating expected message..
+19:14:29.639 [main] ERROR testcases.TC_001_AccountRegistrationTest - test failed...
+19:14:33.950 [main] INFO  testcases.TC_002_LoginTest - ***** Starting TC_002_LoginTest ***** 
+19:14:33.951 [main] DEBUG testcases.TC_002_LoginTest - capturing application debug logs...
+19:14:34.153 [main] INFO  testcases.TC_002_LoginTest - clicked on MyAccount link on the home page..
+19:14:34.686 [main] INFO  testcases.TC_002_LoginTest - clicked on Login link under my account..
+19:14:34.690 [main] INFO  testcases.TC_002_LoginTest - Entering valid email and password
+19:14:35.860 [main] INFO  testcases.TC_002_LoginTest - clicked on login button
+19:14:35.969 [main] INFO  testcases.TC_002_LoginTest - Login test passed....
