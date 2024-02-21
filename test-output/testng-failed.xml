@@ -7,27 +7,14 @@
   <test thread-count="5" name="TC--001_TestNG(failed)">
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
-    <groups>
-      <run>
-        <include name="sanity"/>
-        <include name="regression"/>
-      </run>
-    </groups>
     <classes>
-      <class name="testcases.TC_001_AccountRegistrationTest">
+      <class name="testcases.TC_006_CheckoutTest">
         <methods>
           <include name="teardown"/>
-          <include name="setup"/>
-          <include name="verifyAccountRegistrationTest"/>
-        </methods>
-      </class> <!-- testcases.TC_001_AccountRegistrationTest -->
-      <class name="testcases.TC_002_LoginTest">
-        <methods>
-          <include name="teardown"/>
-          <include name="verify_Login"/>
+          <include name="verify_CheckOut"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testcases.TC_002_LoginTest -->
+      </class> <!-- testcases.TC_006_CheckoutTest -->
     </classes>
   </test> <!-- TC-001_TestNG(failed) -->
 </suite> <!-- Failed suite [Suite] -->

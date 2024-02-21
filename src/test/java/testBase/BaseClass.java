@@ -102,7 +102,7 @@ public class BaseClass {
 
 	@AfterClass(groups = { "sanity", "regression", "master" })
 	public void teardown() {
-		driver.close();
+		driver.quit();
 	}
 
 	public String randomeString() {

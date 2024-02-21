@@ -10,6 +10,7 @@
     <classes>
       <class name="testcases.TC_001_AccountRegistrationTest"/>
       <class name="testcases.TC_002_LoginTest" />
+      <class name="testcases.TC_004_SearchProductTest"/>
     </classes>
     
   </test> <!-- TC-001_TestNG -->
@@ -21,6 +22,7 @@
     <classes>
       <class name="testcases.TC_001_AccountRegistrationTest"/>
       <class name="testcases.TC_002_LoginTest" />
+      <class name="testcases.TC_004_SearchProductTest"/>
     </classes>
     
   </test> <!-- TC-001_TestNG -->

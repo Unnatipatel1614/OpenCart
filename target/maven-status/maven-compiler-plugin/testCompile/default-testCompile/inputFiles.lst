@@ -3,10 +3,14 @@ C:\Users\patel\eclipse-workspace\OpenCart\src\test\java\pageObjects\BasePage.jav
 C:\Users\patel\eclipse-workspace\OpenCart\src\test\java\pageObjects\HomePage.java
 C:\Users\patel\eclipse-workspace\OpenCart\src\test\java\pageObjects\LoginPage.java
 C:\Users\patel\eclipse-workspace\OpenCart\src\test\java\pageObjects\MyAccountPage.java
+C:\Users\patel\eclipse-workspace\OpenCart\src\test\java\pageObjects\SearchPage.java
+C:\Users\patel\eclipse-workspace\OpenCart\src\test\java\pageObjects\ShoppingCartPage.java
 C:\Users\patel\eclipse-workspace\OpenCart\src\test\java\testBase\BaseClass.java
 C:\Users\patel\eclipse-workspace\OpenCart\src\test\java\testcases\TC_001_AccountRegistrationTest.java
 C:\Users\patel\eclipse-workspace\OpenCart\src\test\java\testcases\TC_002_LoginTest.java
 C:\Users\patel\eclipse-workspace\OpenCart\src\test\java\testcases\TC_003_LoginDDT.java
+C:\Users\patel\eclipse-workspace\OpenCart\src\test\java\testcases\TC_004_SearchProductTest.java
+C:\Users\patel\eclipse-workspace\OpenCart\src\test\java\testcases\TC_005_AddToCartPage.java
 C:\Users\patel\eclipse-workspace\OpenCart\src\test\java\utilities\DataProviders.java
 C:\Users\patel\eclipse-workspace\OpenCart\src\test\java\utilities\ExcelUtility.java
 C:\Users\patel\eclipse-workspace\OpenCart\src\test\java\utilities\ExtentReportManager.java

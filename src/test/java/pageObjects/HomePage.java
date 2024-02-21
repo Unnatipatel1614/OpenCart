@@ -1,5 +1,7 @@
 package pageObjects;
 
+import java.util.List;
+
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -26,6 +28,12 @@ public class HomePage extends BasePage{
 	@FindBy(xpath="//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Login']")
 	WebElement lnklogin;
 	
+	@FindBy(xpath="//input[@placeholder='Search']") 
+	WebElement txtsearchbox;
+	
+	@FindBy(xpath="//button[@class='btn btn-default btn-lg']") 
+	WebElement btnsearch;
+	
 	public void clickMyAccount()
 	{
 		lnkmyAccount.click();
@@ -44,5 +52,15 @@ public class HomePage extends BasePage{
 	public void clickLogin()
 	{
 		lnklogin.click();
+	}
+	
+	public void enterProductName(String pName)
+	{
+		txtsearchbox.sendKeys(pName);
+	}
+	
+	public void clickSearch()
+	{
+		btnsearch.click();
 	}
 }
