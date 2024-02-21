@@ -12,10 +12,10 @@
 
 		<groups>
 			<run>
-				<include name="sanity" /> 
-				<include name="regression" /> 
-				<!--<include name="master" />
-				<exclude name=" " /> -->
+				<!--  <include name="sanity" /> 
+				<include name="regression" /> -->
+				<include name="master" />
+				<!--  <exclude name=" " /> -->
 
 			</run>
 		</groups>
@@ -27,7 +27,7 @@
 			<class name="testcases.TC_001_AccountRegistrationTest" />
 			<class name="testcases.TC_002_LoginTest" />
 			<class name="testcases.TC_004_SearchProductTest"/>
-			<class name ="testcases.TC_005_AddToCartPage"/>
+			<class name="testcases.TC_005_AddToCartPage"/>
 			<!-- <class name="testcases.TC_003_LoginDDT" /> -->
 		</classes>
 
